@@ -1,0 +1,46 @@
+2024-04-30 09:23:46 INFO  spencers:65 - open URL
+  2024-04-30 09:23:53 INFO  spencers:71 - search-chocolate
+  2024-04-30 09:23:54 INFO  spencers:77 - Dairy prod
+  2024-04-30 09:23:59 WARN  spencers:79 - Wait for  5 sec
+  2024-04-30 09:23:59 INFO  spencers:81 - Add cart
+  2024-04-30 09:24:02 WARN  spencers:84 - Wait for  3 sec
+  2024-04-30 09:24:49 INFO  spencers:107 - open URL
+  2024-04-30 09:24:49 INFO  spencers:112 - Groceries & Staples
+  2024-04-30 09:25:11 INFO  spencers:114 - view all
+  2024-04-30 09:26:01 INFO  spencers:65 - open URL
+  2024-04-30 09:26:10 INFO  spencers:71 - search-chocolate
+  2024-04-30 09:26:10 INFO  spencers:77 - Dairy prod
+  2024-04-30 09:26:15 WARN  spencers:79 - Wait for  5 sec
+  2024-04-30 09:26:52 INFO  spencers:107 - open URL
+  2024-04-30 09:26:52 INFO  spencers:112 - Groceries & Staples
+  2024-04-30 09:27:10 INFO  spencers:114 - view all
+  2024-04-30 09:27:10 INFO  spencers:116 - edible oil
+  2024-04-30 09:27:15 WARN  spencers:118 - Wait for  5 sec
+  2024-04-30 09:27:15 INFO  spencers:121 - Testcase 2 terminated
+  2024-04-30 09:27:50 INFO  spencers:139 - open URL
+  2024-04-30 09:27:51 INFO  spencers:143 - Profile
+  2024-04-30 09:27:51 WARN  spencers:147 - Wait for  20 sec
+  2024-04-30 09:27:51 INFO  spencers:149 - Log in
+  2024-04-30 09:30:17 INFO  spencers:65 - open URL
+  2024-04-30 09:30:23 INFO  spencers:71 - search-chocolate
+  2024-04-30 09:31:00 INFO  spencers:107 - open URL
+  2024-04-30 09:31:40 INFO  spencers:139 - open URL
+  2024-04-30 09:31:40 INFO  spencers:143 - Profile
+  2024-04-30 09:31:41 WARN  spencers:147 - Wait for  20 sec
+  2024-04-30 09:31:41 INFO  spencers:149 - Log in
+  2024-04-30 09:35:54 INFO  spencers:65 - open URL
+  2024-04-30 09:36:02 INFO  spencers:71 - search-chocolate
+  2024-04-30 09:36:07 INFO  spencers:71 - search-chocolate
+  2024-04-30 09:36:11 INFO  spencers:71 - search-chocolate
+  2024-04-30 09:36:12 INFO  spencers:77 - Dairy prod
+  2024-04-30 09:36:17 WARN  spencers:79 - Wait for  5 sec
+  2024-04-30 09:36:17 INFO  spencers:81 - Add cart
+  2024-04-30 09:36:20 WARN  spencers:84 - Wait for  3 sec
+  2024-04-30 09:36:51 INFO  spencers:107 - open URL
+  2024-04-30 09:37:18 INFO  spencers:139 - open URL
+  2024-04-30 09:37:22 INFO  spencers:139 - open URL
+  2024-04-30 09:37:25 INFO  spencers:139 - open URL
+  2024-04-30 09:37:25 INFO  spencers:143 - Profile
+  2024-04-30 09:37:26 WARN  spencers:147 - Wait for  20 sec
+  2024-04-30 09:37:26 INFO  spencers:149 - Log in
+  
